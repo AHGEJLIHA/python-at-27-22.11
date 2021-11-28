@@ -5,7 +5,13 @@
 Утилиты при 5 воркерах:
 ![image](https://user-images.githubusercontent.com/79083395/143731425-0ced7265-4a49-498d-b867-5d4048f5514d.png)
 
-Время работы с 15 ворекрами:
+3) Время работы с 10 ворекрами: 
+![image](https://user-images.githubusercontent.com/79083395/143743812-49b16e94-5e5c-4560-8963-2d488287af99.png)
+
+Утилиты при 10 воркерах:
+![image](https://user-images.githubusercontent.com/79083395/143746266-66cb9631-d5cb-4996-b78c-621baebf53d6.png)
+
+4) Время работы с 15 ворекрами:
 ![image](https://user-images.githubusercontent.com/79083395/143735531-ad912b61-822a-45b4-9f0d-6294b4d0e7fb.png)
 
 Утилиты при 15 ворекрах:
