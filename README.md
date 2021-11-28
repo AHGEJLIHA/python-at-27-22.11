@@ -17,6 +17,6 @@
 ![image](https://user-images.githubusercontent.com/79083395/143735531-ad912b61-822a-45b4-9f0d-6294b4d0e7fb.png)
 
 Утилиты при 100 ворекрах:
-![image](https://user-images.githubusercontent.com/79083395/143774986-89fbd181-2ab2-4119-943f-b26c8d761fb3.png)
+![image](https://user-images.githubusercontent.com/79083395/143775481-513760e3-85bf-4ebb-97b5-ca384d8c0864.png)
 
 5) Несколько потоков выполнения могут существовать в рамках одного и того же процесса и совместно использовать ресурсы, такие как память, тогда как процессы не разделяют этих ресурсов.
