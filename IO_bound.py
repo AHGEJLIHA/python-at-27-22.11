@@ -54,7 +54,7 @@ def split_to_parts(links, count):
             for i in range(count)]
 
 
-worker_count = 10
+worker_count = 100
 splited_links = split_to_parts(links, worker_count)
 dict_worker_links = {worker_id: splited_links[worker_id]
                      for worker_id in range(worker_count)}
