@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/79083395/143746266-66cb9631-d5cb-4996-b78c-621baebf53d6.png)
 
 4) Время работы с 100 ворекрами:
-![image](https://user-images.githubusercontent.com/79083395/143735531-ad912b61-822a-45b4-9f0d-6294b4d0e7fb.png)
+![image](https://user-images.githubusercontent.com/79083395/143776619-6f210854-1a49-4020-9fc2-e253e3951f53.png)
 
 Утилиты при 100 ворекрах:
 ![image](https://user-images.githubusercontent.com/79083395/143775481-513760e3-85bf-4ebb-97b5-ca384d8c0864.png)
