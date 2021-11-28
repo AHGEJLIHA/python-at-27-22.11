@@ -4,3 +4,7 @@
 
 Утилиты при 5 воркерах:
 ![image](https://user-images.githubusercontent.com/79083395/143731425-0ced7265-4a49-498d-b867-5d4048f5514d.png)
+
+Утилиты при 15 ворекрах:
+![image](https://user-images.githubusercontent.com/79083395/143735434-ae944133-1ebc-4787-bcdb-ba8ceb2d8587.png)
+
