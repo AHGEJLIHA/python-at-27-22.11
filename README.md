@@ -1,5 +1,7 @@
 1) Измерено время работы синхронной проверки ссылок.
-2) Время работы с 5 воркерами:
+<img width="960" alt="pycharm64_VOxeektZxC" src="https://user-images.githubusercontent.com/79083395/143775059-b8f2ac8d-5578-497d-b2da-e01bae7b78aa.png">
+
+3) Время работы с 5 воркерами:
 ![image](https://user-images.githubusercontent.com/79083395/143718872-11e38918-21db-4d62-b1e7-7fe8a2f08309.png)
 
 Утилиты при 5 воркерах:
